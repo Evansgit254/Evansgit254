@@ -13,13 +13,13 @@
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Evansgit254&show_icons=true&theme=radical&hide_border=true" alt="Evansgit254's Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Evansgit254&show_icons=true&theme=radical&hide_border=true" alt="Evansgit254's Stats" />
   </p>
   <p>
     <img src="https://streak-stats.demolab.com?user=Evansgit254&theme=radical&hide_border=true" alt="Streak" />
   </p>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evansgit254&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Langs" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Evansgit254&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Langs" />
   </p>
 </div>
 
