@@ -13,7 +13,7 @@
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Evansgit254&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Evansgit254's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Evansgit254&show_icons=true&theme=radical&hide_border=true" alt="Evansgit254's Stats" />
   </p>
   <p>
     <img src="https://streak-stats.demolab.com?user=Evansgit254&theme=radical&hide_border=true" alt="Streak" />
