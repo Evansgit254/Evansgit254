@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>Visitor Count</h3>
-  <img src="https://profile-counter.glitch.me/Evansgit254/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Evansgit254&label=Profile%20Views&color=blue&style=flat" alt="Visitor Count" />
 </div>
 
 ---
@@ -16,7 +16,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Evansgit254&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Evansgit254's Stats" />
   </p>
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Evansgit254&theme=radical&hide_border=true" alt="Streak" />
+    <img src="https://streak-stats.demolab.com?user=Evansgit254&theme=radical&hide_border=true" alt="Streak" />
   </p>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evansgit254&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Langs" />
